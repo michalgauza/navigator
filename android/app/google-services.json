@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "512092317430",
+    "firebase_url": "https://navigator-ap.firebaseio.com",
+    "project_id": "navigator-ap",
+    "storage_bucket": "navigator-ap.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512092317430:android:df0f3d15194d4eb6236ed7",
+        "android_client_info": {
+          "package_name": "maguza.maps_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "512092317430-fi39mk7s2d6disp0onmlrfa67ds7bq08.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzAZfGS_epFKlziBIAiJSr2m5WVqXOppo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "512092317430-fi39mk7s2d6disp0onmlrfa67ds7bq08.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
